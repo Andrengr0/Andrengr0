@@ -1,6 +1,8 @@
 ## Olá, me chamo André! Seja bem-vindo ao meu perfil.
 
-Um Desenvolvedor Web apaixonado pela programação...
+Aluno da Universidade Federal da Paraíba, no curso de Licenciatura em Ciências da Computação.
+Um Desenvolvedor Web que começou os estudos e práticas na área Web no ano de 2022.
+Tenho bom domínio com as tecnologias Node.js e javascript no front, atualmente aprendendo React.js.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Node" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
@@ -12,8 +14,6 @@ Um Desenvolvedor Web apaixonado pela programação...
 </div>
   
   ##
-
-  ![Snake animation](https://github.com/seu-usuário-aqui/Andrengr0/blob/output/github-contribution-grid-snake.svg)
  
 <div> 
   <a href="https://www.linkedin.com/in/andre-negreiros-9bb926235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
