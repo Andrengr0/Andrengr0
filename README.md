@@ -1,7 +1,9 @@
 ## Olá, me chamo André! Seja bem-vindo ao meu perfil.
 
 Aluno da Universidade Federal da Paraíba, no curso de Licenciatura em Ciências da Computação.
+#
 Um Desenvolvedor Web que começou os estudos e práticas na área Web no ano de 2022.
+#
 Tenho bom domínio com as tecnologias Node.js e javascript no front, atualmente aprendendo React.js.
 
 <div style="display: inline_block"><br>
