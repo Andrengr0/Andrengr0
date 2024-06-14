@@ -1,4 +1,4 @@
-## Olá, me chamo André! Seja bem-vindo ao meu perfil.
+## Olá, me chamo André Negreiros! Seja bem-vindo ao meu perfil.
 
 Aluno da Universidade Federal da Paraíba, no curso de Licenciatura em Ciências da Computação.
 <br>
