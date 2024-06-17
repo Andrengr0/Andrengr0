@@ -2,7 +2,7 @@
 
 Aluno da Universidade Federal da Paraíba, no curso de Licenciatura em Ciências da Computação.
 <br>
-Um Desenvolvedor Web que começou os estudos e práticas na área Web no ano de 2022.
+Um Desenvolvedor Web apaixonado na área, sempre obejetivado a identificar e resolver problemas.
 <br>
 Tenho bom domínio com as tecnologias Node.js e javascript no front, atualmente aprendendo React.js.
 
