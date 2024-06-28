@@ -4,7 +4,7 @@ Aluno da Universidade Federal da Paraíba, no curso de Licenciatura em Ciências
 <br>
 Um Desenvolvedor Web apaixonado na área, sempre obejetivado a identificar e resolver problemas.
 <br>
-Tenho bom domínio com as tecnologias Node.js e javascript no front, atualmente aprendendo React.js.
+Tenho bom domínio com tecnologias para a WEB, atualmente aprendendo React.js.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Node" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
