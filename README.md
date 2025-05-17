@@ -2,7 +2,7 @@
 
 Formado na Universidade Federal da Paraíba, no curso de Licenciatura em Ciências da Computação.
 <br>
-Um Desenvolvedor Web apaixonado na área, sempre obejetivado a identificar e resolver problemas.
+Um Desenvolvedor FullStack apaixonado pela área, sempre obejetivado a identificar e resolver problemas.
 <br>
 Domino diversas tecnologias tanto frontend quanto backend. Atualmente aprendendo desenvolvimento mobile.
 
